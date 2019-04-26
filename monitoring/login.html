@@ -1,0 +1,16 @@
+<?php session_start(); ?>
+<?php
+ 	include("../connectdb/connect.php");		
+		
+				$_SESSION["company_id"]=0;
+				$_SESSION['mainpage']="companymaster";	
+									
+			//echo $row["UTYPE"];
+			$_SESSION['Logged']="Yes";
+			//$_SESSION['pwd']=$row['UDESC'];
+			$_SESSION['LogType']="AD";
+			$_SESSION['user_name']="Administrator";
+			Header("Location: start.php");
+			
+	
+ ?>

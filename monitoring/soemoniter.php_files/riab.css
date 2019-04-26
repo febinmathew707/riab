@@ -1,0 +1,166 @@
+body {
+	margin-left: 1px;
+	margin-top: 5px	;
+	background-color:#dbdbdb;
+}
+.bottomaddress {
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #696251;
+	
+}
+.bottom_strip {
+	background-image: url(../images/RIAB_02_05.jpg);
+	background-repeat: repeat-x;
+}
+
+.address {
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #9c8d5d;
+	
+}
+.address  a:link {color:#9c8d5d; text-decoration: none;}
+.address  a:visited {color:#9c8d5d; text-decoration: none;}
+.address a:hover {color:#ffffff; text-decoration: none;}
+
+.bottomlink {
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #8b816a;
+	line-height:16px;
+	
+}
+.bottomlink  a:link {color:#8b816a; text-decoration: none;}
+.bottomlink  a:visited {color:#8b816a; text-decoration: none;}
+.bottomlink a:hover {color:#ffffff; text-decoration: none;}
+.Text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-decoration:none;
+	color: #db893d;
+	text-align:justify;
+	line-height:22px;
+	padding-top:10PX;
+}
+.green {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-decoration:none;
+	color: #718f29;
+	text-align:justify;
+	line-height:22px;
+}
+
+
+
+
+.contentText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-decoration:none;
+	color: #5a5959;
+	text-align:justify;
+	line-height:23px;
+}
+
+.contentText  a:link {color:#5a5959; text-decoration: none;}
+.contentText  a:visited {color:#5a5959; text-decoration: none;}
+.contentText  a:hover {color:#5a5959; text-decoration: none;}
+
+.head {
+
+	font-family:  Arial, Helvetica, sans-serif;
+
+	font-size: 23px;
+	line-height: 20px;
+	color: #51a0d1;	
+}
+.headyellow {
+
+	font-family:  Arial, Helvetica, sans-serif;
+
+	font-size: 20px;
+	line-height: 20px;
+	color: #ae6f1d;
+	padding-top:12px;
+	
+		
+}
+.contenttext-yellow{
+	text-decoration: none;
+	font-family:Tahoma, Verdana,Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #fe8300;
+}
+.contenttext-yellow a:link{
+	text-decoration: none;
+	font-family:Tahoma, Verdana,Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #fe8300;
+}
+.contenttext-yellow a:visited{
+	text-decoration: none;
+	font-family:Tahoma, Verdana,Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #fe8300;
+}
+.contenttext-yellow a:hover{
+	text-decoration: underline;
+	font-family:Tahoma, Verdana,Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #318fb0;
+}
+
+
+
+
+
+
+
+.rightmenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-decoration:none;
+	color: #fe8300;
+	font-weight:600;
+	
+	line-height:23px;
+}
+.rightmenu  a:link {color:#fe8300; text-decoration: none;}
+.top_strip {
+}
+
+.rightmenu  a:visited {color:#fe8300; text-decoration: none;}
+.rightmenu  a:hover {color:#318fb0; text-decoration: none;}
+
+
+
+.top_strip {
+	background-image: url(../images/RIAB_02_02.jpg);
+	background-repeat: repeat-x;
+}
+
+
+.headlinks {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-decoration:none;
+	color: #008080;
+	font-weight:200;
+	padding-right: 50px;
+}
+.headlinks  a:link {
+	color:#008080;
+	text-decoration: none;
+}
+
+.headlinks  a:visited {
+	color:#008080;
+	text-decoration: none;
+}
+.headlinks  a:hover {
+	color:#FF0000;
+	text-decoration: none;
+}
+

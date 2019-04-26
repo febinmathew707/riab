@@ -1,0 +1,1 @@
+<embed src="test.swf" height="400" width="550"></embed>

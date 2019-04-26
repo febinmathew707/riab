@@ -1,0 +1,114 @@
+BODY
+{font-family: verdana, tahoma, arial, sans-serif;
+font-size: 10pt;
+margin: 0px;
+margin-left: 3px;
+margin-right: 3px;
+padding: 0px;}
+
+P
+{padding-top: 0px;
+margin: 0px;}
+
+H1
+{font-size: 12pt;
+font-weight: bold;
+padding-top: 15px;
+margin: 0;}
+
+table.navbar
+{font-size: 8pt;
+margin: 0px;
+padding: 0px; 
+border: 0px; 
+font-weight: bold;}
+
+table.menu
+{font-size: 8pt;
+margin: 0px;
+padding: 0px;
+font-weight: bold;}
+
+td.menuNormal
+{padding: 0px;
+color: white;
+font-weight: bold;
+vertical-align: top;
+background-color: #AAA5A4;
+font-family: Verdana, Geneva, sans-serif;
+font-size:13px;
+text-align:center;
+vertical-align:middle;
+height:20;}
+
+td.menuHover
+{padding: 0px;
+color: white;
+font-weight: bold;
+vertical-align: top;
+font-family: Verdana, Geneva, sans-serif;
+font-size:13px;
+vertical-align:middle;
+/*remove the following line for drop-down menu with images*/
+background-color: #4C1000;}
+
+div.menuNormal
+{display:none;
+position: static;}
+
+div.menuHover
+{border: 1px solid white;
+background-color: #AAA5A4;
+display:inline;
+position:absolute;
+text-align:left;}
+
+
+span.menuNormal
+{display: none;
+position: static;}
+
+span.menuHover
+{border: 1px solid white;
+background-color: #991C04;
+display:table-column;
+position: absolute;
+text-align:left;
+overflow:auto;
+height: 250px;
+width: 300px}
+
+a.menuitem:link
+{text-decoration: none;
+color: white;
+background-color: AAA5A4;
+display: block;
+text-align:left;
+font-size:12px;}
+
+a.menuitem:visited
+{text-decoration: none;
+color: white;
+background-color: AAA5A4;
+display: block;
+text-align:left;
+font-size:12px;}
+
+a.menuitem:hover
+{text-decoration: none;
+color: white;
+background-color: #4C1000;
+display: block;}
+
+a.menuitem:active
+{text-decoration: none;
+color: white;
+background-color: #4C1000;
+display: block;}
+
+.divPhoto
+{border: 2px solid white;
+background-image:url(employee/images/bgloc.gif);
+height: 65px;
+width: 500px;
+text-align:left;}

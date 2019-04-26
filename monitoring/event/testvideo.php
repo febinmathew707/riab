@@ -1,0 +1,1 @@
+<embed src="tmp.swf" width=550 height=400 bgcolor="#000000" wmode="opaque">

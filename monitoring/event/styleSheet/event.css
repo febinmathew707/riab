@@ -1,0 +1,30 @@
+.normaltextcenter{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:8pt;text-align:center;line-height:150%;color:#626161; background-color:black}
+
+.normaltextleft{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:10pt;text-align:left;line-height:150%;color:#686868;background-color:black }
+
+.txtright{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:8pt;text-align:right;line-height:150%;color:#990033; background-color:black;
+font-weight:bold}
+
+.txtleft{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:8pt;text-align:left;line-height:150%;color:#9C9898; 
+font-weight:bold}
+
+.txtcenter{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:8pt;text-align:center;line-height:150%;color:#9C9898; background-color:#343434;
+font-weight:bold}
+
+.txtlefthead{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:13pt;text-align:left;line-height:150%;color:#9C9898; background-color:black;
+font-weight:bold}
+
+.txtjustify{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:8pt;text-align:justify;line-height:150%;color:#9C9898; background-color:black;
+font-weight:normal}
+
+.txtleftsubhead{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:10pt;text-align:left;line-height:150%;color:#9C9898; background-color:black;
+font-weight:bold}
+
+.txtrightsubhead{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:10pt;text-align:right;line-height:150%;color:#9C9898; background-color:black;
+font-weight:bold}
+
+.txtrighthead{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:13pt;text-align:right;line-height:150%;color:#9C9898; background-color:black;
+font-weight:bold}
+
+.txtcommenthead{font-family:Verdana, Arial, Helvetica, sans-serif,Arial,times new roman;font-size:9pt;text-align:left;line-height:150%;color:#9C9898; background-color:#343434;
+font-weight:bold}

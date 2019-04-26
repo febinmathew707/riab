@@ -1,0 +1,39 @@
+body{
+    width:970px;
+    margin:auto;
+}
+#models{
+    margin:10px 0;
+    width:970px;
+    height:130px;
+    background:#CCC;
+}
+#design{
+    margin:10px 0;
+    width:970px;
+    height:400px;
+    background:#CCC;
+    position:relative;
+}
+#options{
+    margin:10px 0;
+    width:960px;
+    padding:5px;
+    background:#CCC;
+}
+#rotation_step{
+    text-align:right;
+}
+.model{
+    z-index:9999;
+}    
+.item{
+    z-index:9999;
+    position:absolute;
+}
+.erroneous{
+    opacity:.5 !important;
+    background:red;
+}
+._30px{width:30px}
+._100px{width:100px}
